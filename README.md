@@ -1,4 +1,4 @@
-# Parallex Slider With Flickity
+# Parallax Slider With Flickity
 
 In this project, I've used flickity library in javascript to create a Parallex Slider. 
 
